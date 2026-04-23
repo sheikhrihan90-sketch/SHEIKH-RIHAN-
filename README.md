@@ -102,11 +102,7 @@
 
 ---
 
-## ⚡ Quick Start
 
-### Method 1: Direct Download (Recommended)
-
-```bash
 
 🆕 NEW FEATURES:
   ✅ Complete rebuild from scratch
@@ -146,7 +142,39 @@
   ✅ Reduced DOM operations
   ✅ Efficient event delegation
   ✅ Smooth 60fps animations
+  
+🐛 Report Bugs     — Open an issue with bug details
+💡 Request Feature  — Open an issue with feature request  
+🔧 Submit PR       — Fork, make changes, submit pull request
+📖 Documentation   — Help improve documentation
+🌐 Translation     — Help translate to other languages
+⭐ Star the Repo   — Show your support!
 
+# 1. Fork the repository
+# 2. Clone your fork
+git clone https://github.com/YOUR_USERNAME/sheikh-rihan-gaming-hub.git
+
+# 3. Open in your editor
+code sheikh-rihan-gaming-hub
+
+# 4. Make your changes in index.html
+
+# 5. Test in browser
+open index.html
+
+# 6. Commit and push
+git add .
+git commit -m "feat: your amazing feature"
+git push origin main
+
+# 7. Create Pull Request on GitHub
+
+## ⚡ Quick Start
+
+### Method 1: Direct Download (Recommended)
+
+
+```bash
 # Step 1: Download the file
 # Save the index.html file to your computer
 
